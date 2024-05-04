@@ -1,0 +1,226 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (maci64)
+                             September 14, 2017
+
+[Warning: Directory permission denied:
+/Users/eric/Documents/CR_7T/ClassificationStudy/CorticalRepresentation_7T/Analysis/AnalysisSyntax] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/CR_7T/ClassificationStudy/CorticalRepresentation_7T/Analysis/CosmoResults/Decoding_Nonsymbolic_TasksCombined/L_Parietal] 
+[Warning: Directory permission denied: /Users/eric/Documents/MATLAB/CosmoMVPA] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source/_static] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source/_templates] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/tools] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/examples] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/external] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/external/NIfTI_20140122] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/mvpa] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/tests] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/tools] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/Output] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/Practice] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_001_313912] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_011_314038] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_016_314412] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/models] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s01] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s02] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s03] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s04] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s05] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s06] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s07] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s08] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/digit] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/meg_20hz] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/meg_obj6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/obj6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/BrainNet_spm8_files] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/AAL90] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Brodmann82] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Custom] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Desikan-Killiany68] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Dos160] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Fair34] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/HOA112] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/LPBA40] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Power264] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/SurfTemplate] 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+CAT parallel processing with MATLAB PID: 52523
+
+------------------------------------------------------------------------
+CAT12.6 r1450: 1/1:            ./StructureFunctionBids/sub-01/sub-01.nii
+------------------------------------------------------------------------
+SANLM denoising (medium):                                            56s
+APP: Rough bias correction:                                       
+  Initialize                                                          5s
+  Estimate background                                                 4s
+  Initial correction                                                  6s
+  Refine background                                                   4s
+  Final correction                                                    6s
+  Final scaling                                                      10s
+                                                                     41s
+Affine registration                                                  10s
+Affine registration                                                   6s
+SPM preprocessing 1 (estimate 1):                                    55s
+SPM preprocessing 1 (estimate 2):                                    54s
+SPM preprocessing 2 (write):                                      
+  Write Segmentation                                                 16s
+  Update Segmentation                                                35s
+  Update Skull-Stripping                                             30s
+  Update probability maps                                             5s
+                                                                     85s
+Global intensity correction:                                         15s
+SANLM denoising after intensity normalization (medium):              10s
+Fast registration                                                 
+Dartel registration with 1.50 mm on a 1.50 mm Template:           
+  Template: "/Users/eric/spm12/toolbox/cat12/templates_1.50mm/Template_1_IXI555_MNI152.nii"
+    1 | 0.1355 |   431382        0   431382  364.741 
+    2 | 0.1145 |   364499    10501   375000  203.897 
+    3 | 0.1072 |   341383    13347   354729  173.584 
+    4 | 0.0989 |   315053    16119   331172  156.402 
+    5 | 0.0900 |   286652    17539   304191  131.694 
+    6 | 0.0816 |   259884    33589   293474   69.386 
+
+                                                                     57s
+   64s
+Local adaptive segmentation (LASstr=0.50):                        
+  Prepare maps                                                        4s
+  Prepare partitions                                                  1s
+  Prepare segments (LASmod = 1.00)                                    9s
+  Estimate local tissue thresholds (WM)                              14s
+  Estimate local tissue thresholds (GM)                              19s
+  Estimate local tissue thresholds (CSF/BG)                           3s
+  Intensity transformation                                           52s
+  SANLM denoising after LAS (medium)                                 23s
+                                                                     23s
+ROI segmentation (partitioning):                                  
+  Atlas -> subject space                                              7s
+  Major structures                                                    3s
+  Ventricle detection                                                 9s
+  Blood vessel detection                                              6s
+  WMH detection (WMHCstr=0.50 > WMHCstr'=0.03)                       21s
+  Manual stroke lesion detection                                      0s
+  Closing of deep structures                                          1s
+  Side alignment                                                      3s
+  Final corrections                                                   3s
+                                                                     53s
+Blood vessel correction (BVCstr=0.50):                                1s
+Amap using initial SPM12 segmentations (MRF filter strength 0.05):   16s
+    AMAP peaks: [CSF,GM,WM] = [0.44±0.06,0.68±0.07,0.97±0.05]
+Final cleanup (gcutstr=0.25):                                     
+  Level 1 cleanup (ROI estimation)                                    2s
+  Level 1 cleanup (brain masking)                                     1s
+  Level 2 cleanup (CSF correction)                                    0s
+  Level 3 cleanup (CSF/WM PVE)                                        1s
+                                                                      4s
+
+
+Dartel registration with 1.50 mm on a 1.50 mm Template:           
+  Template: "/Users/eric/spm12/toolbox/cat12/templates_1.50mm/Template_1_IXI555_MNI152.nii"
+    1 | 0.1446 |   460588        0   460588  386.825 
+    2 | 0.1180 |   375872    25874   401746  166.446 
+    3 | 0.1166 |   371374    25109   396483   54.980 
+    4 | 0.1171 |   372965    13219   386185  196.873 
+    5 | 0.1072 |   341302    34009   375311   71.661 
+    6 | 0.1071 |   341098    33125   374223   42.387 
+    7 | 0.1083 |   344994    17301   362295  170.905 
+    8 | 0.0980 |   312092    38685   350777   66.781 
+    9 | 0.0980 |   312201    37132   349333   40.247 
+   10 | 0.0986 |   314020    19611   333631  148.021 
+   11 | 0.0886 |   282026    40130   322156   59.551 
+   12 | 0.0884 |   281524    38978   320502   37.639 
+   13 | 0.0886 |   282105    20645   302750  118.501 
+   14 | 0.0803 |   255667    36823   292491   50.664 
+   15 | 0.0795 |   253179    37562   290741   32.941 
+   16 | 0.0792 |   252049    39538   291587   39.027 
+   17 | 0.0788 |   250902    39712   290615   27.282 
+   18 | 0.0784 |   249744    40574   290318   23.962 
+                                                                    192s
+  Jacobian determinant (RMS): 0.031 0.029 0.046 0.068 0.097 0.129 |  0.130076 
+           Template Matching: 0.145 0.117 0.107 0.098 0.088 0.080 |  0.078427 
+Write result maps:                                                   17s
+ROI estimation:                                                   
+  Data mapping to normalized atlas space                             16s
+  ROI estimation of 'neuromorphometrics' atlas                       18s
+                                                                     34s
+Quality check:                                                       13s
+Print 'Graphics' figure to: 
+  /Users/Mohammed/Documents/Derivatives/StructureFunctionBids/sub-01/report/catreport_sub-01.pdf
+
+------------------------------------------------------------------------
+CAT preprocessing takes 14 minute(s) and 20 second(s).
+Image Quality Rating (IQR):  86.46% (B)
+Segmentations are saved in /Users/Mohammed/Documents/Derivatives/StructureFunctionBids/sub-01/mri
+Reports are saved in /Users/Mohammed/Documents/Derivatives/StructureFunctionBids/sub-01/report
+Labels are saved in /Users/Mohammed/Documents/Derivatives/StructureFunctionBids/sub-01/label
+------------------------------------------------------------------------
+
+
+________________________________________________________________________
+CAT12 Segmentation job finished.

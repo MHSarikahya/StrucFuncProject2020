@@ -1,0 +1,130 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (maci64)
+                             September 14, 2017
+
+[Warning: Directory permission denied:
+/Users/eric/Documents/CR_7T/ClassificationStudy/CorticalRepresentation_7T/Analysis/AnalysisSyntax] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/CR_7T/ClassificationStudy/CorticalRepresentation_7T/Analysis/CosmoResults/Decoding_Nonsymbolic_TasksCombined/L_Parietal] 
+[Warning: Directory permission denied: /Users/eric/Documents/MATLAB/CosmoMVPA] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source/_static] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/source/_templates] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/doc/tools] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/examples] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/external] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/external/NIfTI_20140122] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/mvpa] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/tests] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/CoSMoMVPA-master/CoSMoMVPA-master/tools] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/Output] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/Practice] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_001_313912] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_011_314038] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/CR_016_314412] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/models] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s01] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s02] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s03] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s04] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s05] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s06] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s07] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/ak6/s08] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/digit] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/meg_20hz] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/meg_obj6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/CosmoMVPA/datadb-v0.3/datadb/tutorial_data/obj6] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/BrainNet_spm8_files] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/AAL90] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Brodmann82] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Custom] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Desikan-Killiany68] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Dos160] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Fair34] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/HOA112] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/LPBA40] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/ExampleFiles/Power264] 
+[Warning: Directory permission denied:
+/Users/eric/Documents/MATLAB/toolboxes/BrainNetViewer_20171031/Data/SurfTemplate] 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+CAT parallel processing with MATLAB PID: 46139
+
+------------------------------------------------------------------------
+CAT12.6 r1450: 1/1:            ./StructureFunctionBids/sub-02/sub-02.nii
+------------------------------------------------------------------------
+SANLM denoising (full):                                              91s
+APP: Rough bias correction:                                       
+  Initialize                                                          6s
+  Estimate background                                                 4s
+  Initial correction                                                  7s
+  Refine background                                                   4s
+  Final correction                                                    6s
+  Final scaling                                                      11s
+                                                                     44s
+Affine registration                                                  16s
+Affine registration                                                  10s
+SPM preprocessing 1 (estimate 1):                                 
